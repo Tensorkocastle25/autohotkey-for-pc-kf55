@@ -1,4 +1,4 @@
-# 
+# AutoHotkey for PC | AutoHotkey for Windows advanced Extension: batch-renaming & file-lock is the best AutoHotkey for PC | AutoHotkey for Windows extension, featuring
 
 
 
